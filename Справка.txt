@@ -1,0 +1,1 @@
+boundingRect returns r = [x, y, w, h] and numpy syntax expects [y:y+h, x:x+w]
